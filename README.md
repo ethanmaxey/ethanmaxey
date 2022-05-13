@@ -1,13 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ethan Maxey 👋
 
-
-- 🔭 I’m currently working on my C++ programming homework
-- 🌱 I’m currently learning C++ data structures and algorithims.
-- 👯 I’m looking to collaborate on anything! 
-- 💬 Ask me about my national park trips :D
-- 📫 How to reach me: ethanm113@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I play trumpet!
+I am a Computer Science Undergraduate student at The University of Houston.
 
 <!--
 **ethanmaxey/ethanmaxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
