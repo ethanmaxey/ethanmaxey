@@ -1,7 +1,42 @@
-### Hi, I'm Ethan Maxey 👋
+# ethanmaxey
 
-I am a Computer Science Undergraduate student at The University of Houston.
+Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking internships. Welcome to my Github profile!
 
-<!--
-**ethanmaxey/ethanmaxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## :computer: Technologies I Work With
+- C++
+- Python
+- MySQL
+- ARM
+- HTML
+- CSS
+- R
+- JavaScript
+- MatLab
+
+## :wrench: Tools I'm Proficient With
+- Linux
+- Git
+- Django
+- React
+- Microsoft Azure
+- Google Cloud Platform
+- MongoDB
+
+## :rocket: Cool Projects
+- POS System for Database Systems 💻
+- Homework on Operating Systems 💻
+- Digital Image Processing 🖼️
+- Data Structures 📊
+
+## :mountain: Passion Outside of Code
+- Visiting National Parks and enjoying nature 🌲
+
+## :bulb: Fun Facts About Me
+- I enjoy exploring new technologies and finding ways to solve real-world problems with code.
+- I love visiting national parks and immersing myself in nature.
+
+## :email: Reach Out To Me
+- You can reach out to me at ethanm113@gmail.com.
+- I'm always open to discussing new opportunities and connecting with fellow developers.
+
+Thanks for visiting! Have a great day!
