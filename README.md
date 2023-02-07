@@ -22,11 +22,11 @@ Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking intern
 - Google Cloud Platform
 - MongoDB
 
-## :rocket: Cool Projects
+## :rocket: Cool Projects & Coding Experience
 - POS System for Database Systems 💻
-- Homework on Operating Systems 💻
-- Digital Image Processing 🖼️
-- Data Structures 📊
+- Operating Systems Class Projects 💻
+- Digital Image Processing Class Projects 🖼️
+- Data Structures Class Projects 📊
 
 ## :mountain: Passion Outside of Code
 - Visiting National Parks and enjoying nature 🌲
