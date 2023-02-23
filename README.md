@@ -2,15 +2,16 @@
 
 Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking internships. Welcome to my Github profile!
 
-## :computer: Technologies I Work With
+## :computer: Languages I Work With
 - C++
 - Python
 - MySQL
-- ARM
+- Keil ARM Assembliy
 - HTML
 - CSS
 - R
 - JavaScript
+- Java
 - MatLab
 
 ## :wrench: Tools I'm Proficient With
@@ -21,19 +22,23 @@ Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking intern
 - Microsoft Azure
 - Google Cloud Platform
 - MongoDB
+- Jenkins
+- Wireshark
 
 ## :rocket: Cool Projects & Coding Experience
+- Software Design Class Projects using Test Driven Development 📊
 - POS System for Database Systems 💻
 - Operating Systems Class Projects 💻
 - Digital Image Processing Class Projects 🖼️
 - Data Structures Class Projects 📊
 
-## :mountain: Passion Outside of Code
+## :mountain: Passions Outside of Code
 - Visiting National Parks and enjoying nature 🌲
+- I have been to 30 out of the 63 of the US National Parks!
+- I have a little indoor plant garden
 
 ## :bulb: Fun Facts About Me
 - I enjoy exploring new technologies and finding ways to solve real-world problems with code.
-- I love visiting national parks and immersing myself in nature.
 
 ## :email: Reach Out To Me
 - You can reach out to me at ethanm113@gmail.com.
