@@ -3,22 +3,16 @@
 Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking internships. Welcome to my Github profile!
 
 ## :computer: Languages I Work With
-- C++
 - Python
-- MySQL
-- Keil ARM Assembliy
-- HTML
-- CSS
+- C++
 - R
-- JavaScript
-- Java
 - MatLab
+- HTML/CSS
+- MySQL
 
 ## :wrench: Tools I'm Proficient With
 - Linux
 - Git
-- Django
-- React
 - Microsoft Azure
 - Google Cloud Platform
 - MongoDB
@@ -34,7 +28,7 @@ Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking intern
 
 ## :mountain: Passions Outside of Code
 - Visiting National Parks and enjoying nature 🌲
-- I have been to 30 out of the 63 of the US National Parks!
+- I have been to 33 out of the 63 of the US National Parks!
 - I have a little indoor plant garden
 
 ## :bulb: Fun Facts About Me
