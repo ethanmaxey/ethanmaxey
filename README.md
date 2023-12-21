@@ -3,12 +3,10 @@
 Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking internships. Welcome to my Github profile!
 
 ## :computer: Languages I Work With
+- Swift
 - Python
 - C++
-- R
-- MatLab
-- HTML/CSS
-- MySQL
+- HTML/CSS (React, Django, Node.js)
 
 ## :wrench: Tools I'm Proficient With
 - Linux
