@@ -5,8 +5,8 @@ Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking intern
 ## :computer: Languages I Work With
 - Swift
 - Python
-- C++
-- HTML/CSS (React, Django, Node.js)
+- C/C++
+- HTML/CSS (React, Node.js, Next.js, Django)
 
 ## :wrench: Tools I'm Proficient With
 - Linux
@@ -15,18 +15,18 @@ Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking intern
 - Google Cloud Platform
 - MongoDB
 - Jenkins
-- Wireshark
 
 ## :rocket: Cool Projects & Coding Experience
-- Software Design Class Projects using Test Driven Development 📊
+- NASA Websites during my internship.
+- NASA/trick: Open source contributions in C++/Python.
+- WHEELY?: Your Personalized Activity Planner (Available On The App Store)
+- Wordle Clone: Software Design Class Projects using Test Driven Development 📊
 - POS System for Database Systems 💻
-- Operating Systems Class Projects 💻
-- Digital Image Processing Class Projects 🖼️
-- Data Structures Class Projects 📊
+
 
 ## :mountain: Passions Outside of Code
 - Visiting National Parks and enjoying nature 🌲
-- I have been to 33 out of the 63 of the US National Parks!
+- I have been to 35 out of the 63 of the US National Parks!
 - I have a little indoor plant garden
 
 ## :bulb: Fun Facts About Me
@@ -36,4 +36,4 @@ Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking intern
 - You can reach out to me at ethanm113@gmail.com.
 - I'm always open to discussing new opportunities and connecting with fellow developers.
 
-Thanks for visiting! Have a great day!
+Thanks for visiting!
