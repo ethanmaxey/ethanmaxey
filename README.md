@@ -1,6 +1,6 @@
 # ethanmaxey
 
-Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking internships. Welcome to my Github profile!
+Hi there! I'm Ethan Maxey, and I'm a Software Develper seeking full time roles. Welcome to my Github profile!
 
 ## :computer: Languages I Work With
 - Swift
@@ -36,4 +36,4 @@ Hi there! I'm Ethan Maxey, and I'm a software engineering student seeking intern
 - You can reach out to me at ethanm113@gmail.com.
 - I'm always open to discussing new opportunities and connecting with fellow developers.
 
-Thanks for visiting!
+Thanks for visiting! Check out my pinned repositories below.
